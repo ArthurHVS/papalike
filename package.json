@@ -1,0 +1,22 @@
+{
+  "name": "papalike",
+  "version": "1.0.0",
+  "description": "WebCrawler basico em NodeJS",
+  "main": "papalike.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "crawler"
+  ],
+  "author": "Arthur Henrique Verdadeiro Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "jsonfile": "^6.1.0",
+    "node.extend": "^2.0.2",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
