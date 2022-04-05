@@ -1,0 +1,11 @@
+{
+    "main_target": "http://tradingview.com/",
+    "frontier_scores": {
+        "forget": [
+            "categories"
+        ],
+        "crawl": [
+            "ideas"
+        ]
+    }
+}

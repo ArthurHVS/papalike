@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "WebCrawler basico em NodeJS",
   "main": "papalike.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,10 +14,10 @@
   "author": "Arthur Henrique Verdadeiro Silva",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "cheerio": "^1.0.0-rc.5",
     "jsonfile": "^6.1.0",
     "node.extend": "^2.0.2",
-    "request": "^2.88.2",
     "xml2js": "^0.4.23"
   }
 }
